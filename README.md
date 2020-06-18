@@ -25,14 +25,17 @@ BeautifulSoup
 To run the program, run the main.py file.
 The other files are called as modules in the main file.
 
-**Link to the Project Video on Youtube**
+**Link to the Project Video on Youtube**  
+
 https://youtu.be/Y6CjVDi8NdE
 
-**Link to the Trello Project Board**
+**Link to the Trello Project Board**  
+
 https://trello.com/b/vLw4My03/python-project-group-9
 
-**Contributors**
-Tanvi Mittal
-Pooja Vasudevan
-Arkesh Rath
-Syed Danish Ahmed
+**Contributors**  
+
+* Tanvi Mittal
+* Pooja Vasudevan
+* Arkesh Rath
+* Syed Danish Ahmed
