@@ -1,0 +1,238 @@
+IncidentID,IncidentType,CaseNumber,IncidentDate,Address,Zip
+23962,Residential Burglary,2019-386229,"9/18/2019, 1:30 AM",Settlers Road,53717
+23965,Information,2019-390264,"9/20/2019, 10:15 AM",118 W. Johnson St,53703
+23952,Residential Burglary,2019-384474,"9/17/2019, 1:39 AM",Howard Place,53703
+23954,Traffic incident/Road Rage,2019-384529,"9/17/2019, 3:18 AM",West Beltline Highway,53713
+23957,Traffic incident/Road Rage,2019-385721,"9/17/2019, 3:15 PM",E. Washington Ave.,53703
+23940,Theft,2019-376976,"9/12/2019, 9:15 AM",Knutson Drive,53704
+23941,Robbery,2019-378443,"9/13/2019, 6:13 AM",4402 East Towne Blvd.,53704
+23942,Suspicious Person,2019-377076,"9/12/2019, 10:18 AM",1423 Northport Dr.,53704
+23943,Traffic Incident,2019-377198,"9/12/2019, 11:38 AM",6400 block Schroeder Rd.,53711
+23947,Robbery,2019-382946,"9/16/2019, 4:36 AM",1799 Thierer Rd.,53704
+23949,Battery,2019-380922,"9/14/2019, 3:30 PM",100 State Street,53703
+23930,Non-Residential Burglary,2019-373288,"9/10/2019, 4:00 AM",1917 Lake Point Dr.,53713
+23933,Battery,2019-374253,"9/10/2019, 2:05 PM",E. Main St.,53703
+23936,Traffic Incident,2019-371030,"9/8/2019, 3:19 PM",E. Washington Ave.,53703
+23938,Residential Burglary,2019-378063,"9/12/2019, 11:19 PM",100 block N. Mills St.,53715
+23939,Theft,2019-377249,"9/12/2019, 12:08 PM",1130 Williamson St.,53703
+23920,Missing Adult,2019-369429,"9/7/2019, 2:01 PM",Chapel Hill Drive,53711
+23921,Robbery,2019-368075,"9/6/2019, 5:17 PM",4821 Annamark Dr.,53704
+23922,Weapons Violation,2019-367566,"9/6/2019, 12:10 PM",Maple Grove Dr.,53719
+23924,Robbery,2019-372670,"9/9/2019, 4:29 PM",1010 N. Sherman Ave.,53704
+23927,Traffic Incident,2019-355647,"8/29/2019, 11:07 PM",State St.,53703
+23928,Robbery,2019-373521,"9/10/2019, 6:49 AM",1202 North Sherman Ave.,53704
+23910,Information,2019-356552,"12/25/2018, 7:00 AM",Oriole Lane,53704
+23911,Residential Burglary,2019-363342,"9/4/2019, 2:25 AM",Bashford Ave.,53704
+23914,Exposure,2019-364734,"9/4/2019, 5:30 PM",3700 Milwaukee St.,53714
+23917,Traffic Incident,2019-367011,"9/6/2019, 5:55 AM",High Street,53715
+23907,Theft,2019-361128,"9/2/2019, 2:26 PM",4275 Lien Rd.,53704
+23892,Robbery,2019-347835,"8/25/2019, 1:07 AM",4902 Verona Rd,53711
+23893,Death Investigation,2019-351503,"8/27/2019, 12:34 PM",4512 E. Washington Ave.,53704
+23894,Robbery,2019-351802,"8/27/2019, 3:41 PM",2801 N Sherman Ave,53704
+23897,Robbery,2019-353106,"8/28/2019, 11:18 AM",4602 East Towne Blvd.,53704
+23880,Theft,2019-340756,"8/20/2019, 8:45 PM",620 University Ave.,53715
+23883,Battery,2019-340854,"8/20/2019, 10:00 PM",825 Hughes Place,53713
+23886,Weapons Violation,2019-342501,"8/21/2019, 9:10 PM",4830 Hayes Rd.,53704
+23871,Traffic Incident,2019-336945,"8/18/2019, 2:22 PM",700 block S. Gammon Rd.,53719
+23872,Drug Investigation,2019-281253,"8/19/2019, 4:10 AM",4830 Hayes Rd.,53704
+23875,Traffic Incident,2019-338594,"8/19/2019, 1:26 PM",E. Washington Ave.,53703
+23876,Weapons Violation,2019-338817,"8/19/2019, 3:57 PM",International Lane,53704
+23860,Residential Burglary,2019-329558,"8/13/2019, 10:15 PM",Summer Ridge Dr.,53704
+23864,Weapons Violation,2019-332919,"8/16/2019, 3:51 AM",West Beltline Highway,53713
+23865,Drug Investigation,2019-269395,"8/12/2019, 2:45 PM",211 S. Carroll St.,53703
+23868,Exposure,2019-334898,"8/17/2019, 7:30 AM",701 E. Johnson St.,53703
+23853,Arrested Person,2019-325510,"8/11/2019, 8:53 AM",McKenna Blvd.,53719
+23854,Traffic Incident,2019-324858,"8/10/2019, 7:15 PM",East Washington Ave.,53703
+23855,Robbery,2019-324995,"8/10/2019, 9:05 PM",E. Main St.,53703
+23856,Theft,2019-324444,"8/10/2019, 8:00 AM",1901 Aberg Ave.,53704
+23857,Battery,2019-324282,"8/10/2019, 12:26 PM",325 W. Olin Ave.,53715
+23842,Fraud,2019-315996,"8/5/2019, 7:00 AM",4020 Mineral Point Rd.,53705
+23844,Weapons Violation,2019-317827,"8/6/2019, 11:37 AM",Packers Ave.,53704
+23846,Intoxicated/Impaired Driver,2019-320059,"8/7/2019, 9:09 PM",1400 block E. Washington Ave.,53703
+23847,Weapons Violation,2019-319825,"8/7/2019, 5:06 PM",S. Gammon Rd.,53717
+23830,Drug Investigation,2019-259183,"7/30/2019, 8:45 AM",S. Stoughton Rd.,53714
+23831,Drug Investigation,2019-309736,"8/1/2019, 8:48 AM",John Nolen Dr.,53703
+23839,Intoxicated/Impaired Driver,2019-312155,"8/2/2019, 5:45 PM",4301 East Towne Blvd.,53704
+23820,Traffic Incident,2019-304737,"7/29/2019, 12:30 PM",4002 School Rd.,53704
+23821,Traffic Incident,2019-305004,"7/29/2019, 12:20 PM",West Beltline Highway,53713
+23822,Residential Burglary,2019-304858,"7/29/2019, 11:04 AM",Sachtjen St.,53704
+23824,Injured Person,2019-304276,"7/29/2019, 7:00 AM",N. Baldwin St.,53703
+23827,Robbery,2019-00309044,"7/31/2019, 7:52 PM",3801 E Washington Ave,53704
+23828,Weapons Violation,2019-00309133,"7/31/2019, 9:44 PM",600 block Williamson St,53703
+23811,Residential Burglary,2019-271465,"7/9/2019, 10:16 AM",238 Randolph Dr.,53717
+23812,Residential Burglary,2019-299481,"7/25/2019, 6:00 PM",Jeffy Trail,53719
+23814,Weapons Violation,2019-300702,"7/26/2019, 4:51 PM",100 block State Street,53703
+23815,Non-Residential Burglary,2019-301618,"7/27/2019, 9:08 AM",811 Williamson St.,53703
+23816,Check Person,2019-302540,"7/27/2019, 8:05 PM",S. Segoe Rd.,53705
+23818,Robbery,2019-305248,"7/29/2019, 2:39 PM",East Buckeye Rd,53716
+23801,Robbery,2019-299401,"7/25/2019, 9:20 PM",Mendota Court,53703
+23804,Non-Residential Burglary,2019-299469,"7/25/2019, 10:45 PM",4400 Sycamore Ave.,53714
+23806,Non-Residential Burglary,2019-299488,"7/25/2019, 11:05 PM",4718 Hammersley Rd.,53711
+23807,Weapons Violation,2019-299596,"7/26/2019, 3:28 AM",516 Grand Canyon Dr.,53719
+23790,Residential Burglary,2019-293272,"7/22/2019, 11:40 AM",N. Sherman Ave.,53704
+23791,Non-Residential Burglary,2019-902542,"6/21/2019, 5:00 PM",3330 Atwood Ave.,53704
+23792,Weapons Violation,2019-293767,"7/22/2019, 4:28 PM",Stein Ave.,53714
+23793,Traffic Incident,2019-295497,"7/23/2019, 4:28 PM",30 Dempsey Road,53714
+23794,Residential Burglary,2019-295888,"7/23/2019, 11:37 PM",Whitney Way,53705
+23796,Residential Burglary,2019-294677,"7/23/2019, 8:40 AM",Jefferson St.,53711
+23797,Non-Residential Burglary,2019-297637,"7/24/2019, 10:35 PM",2402 W. Broadway,53713
+23798,Residential Burglary,2019-295911,"7/23/2019, 10:05 PM",Maple Grove Dr.,53719
+23799,Missing Adult,2019-286665,"7/15/2019, 11:35 AM",Tancho Drive,53718
+23780,Battery,2019-285581,"7/17/2019, 2:30 PM",S. Brearly St.,53703
+23782,Drug Investigation,2019-212578,"7/18/2019, 2:00 AM",King James Court,53719
+23786,Non-Residential Burglary,2019-292006,"7/21/2019, 5:26 PM",1101 N. Sherman Ave.,53704
+23787,Robbery,2019-290760,"7/20/2019, 8:45 PM",Williamson St.,53703
+23788,Weapons Violation,2019-290350,"7/20/2019, 4:00 PM",211 South Carroll St.,53703
+23789,Traffic Incident,2019-291106,"7/22/2019, 11:14 AM",E. Buckeye Rd.,53716
+23770,Residential Burglary,2019-281050,"7/15/2019, 2:10 AM",Southern Oak Place,53719
+23771,Weapons Violation,2019-282477,"7/15/2019, 7:35 PM",Post Rd.,53713
+23772,Drug Investigation,2019-227695,"7/16/2019, 4:30 AM",2400 block Calypso Rd.,53704
+23774,Robbery,2019-283093,"7/15/2019, 8:03 PM",Mike McKinney Court,53711
+23775,Robbery,2019-283512,"7/16/2019, 11:23 AM",1814 S. Park St.,53713
+23776,Suspicious Vehicle,2019-283459,"7/16/2019, 10:58 AM",5000 block Felland Rd.,53718
+23777,Theft,2019-284022,"7/16/2019, 4:33 PM",Settlers Road,53717
+23779,Information,2019-285566,"7/17/2019, 2:33 PM",Mountain Ash Trail,53717
+23760,Weapons Violation,2019-274476,"7/11/2019, 3:00 AM",23 Naylor Circle,53719
+23761,Theft,2019-274718,"7/11/2019, 6:10 AM",111 N Broom Street,53703
+23764,Information,2019-275103,"7/11/2019, 10:34 AM",89 East Towne Mall,53704
+23765,Missing Adult,2019-273045,"7/13/2019, 4:33 AM",Lakelawn Pl,53703
+23766,Non-Residential Burglary,2019-277695,"7/12/2019, 7:00 PM",2920 N. Sherman Ave.,53704
+23767,Weapons Violation,2019-277337,"7/12/2019, 3:00 PM",606 S. Whitney Way,53711
+23751,Weapons Violation,2019-267022,"7/6/2019, 3:17 PM",100 block State Street,53703
+23752,Weapons Violation,2019-267459,"7/6/2019, 7:39 PM",4830 Hayes Road,53704
+23754,Death Investigation,2019-000269087,"7/8/2019, 2:56 AM",West Beltline,53713
+23755,Information,2019-000270964,"7/9/2019, 4:49 AM",N Eau Claire Ave,53705
+23756,Robbery,2019-271086,"7/9/2019, 6:17 AM",6401 Cottage Grove Rd,53718
+23743,Traffic Incident,2019-00260946,"7/3/2019, 3:00 AM",West Beltline,53713
+23744,Disturbance,2019-262750,"7/3/2019, 11:30 PM",Independence Ln,53704
+23749,Disturbance,2019-264148,"7/4/2019, 7:27 PM",1423 Northport Drive,53704
+23731,Check Person,2019-252409,"6/28/2019, 4:50 AM",Regent Street,53715
+23732,Robbery,2019-252862,"6/28/2019, 8:52 AM",23 West Towne mall,53719
+23733,Robbery,2019-254872,"6/29/2019, 12:10 PM",510 Westgate Mall,53711
+23734,Weapons Violation,2019-255454,"6/30/2019, 6:27 PM",John Nolan Drive,53703
+23736,Weapons Violation,2019-255454,"6/29/2019, 6:27 PM",John Nolan Drive,53703
+23737,Residential Burglary,2019-257227,"6/30/2019, 9:13 PM",Coolidge Street,53704
+23721,Weapons Violation,2019-244323,"6/23/2019, 10:53 AM",4501 Verona Rd,53711
+23724,Miscellaneous Sex Offense,2019-245672,"6/24/2019, 8:47 AM",220 N Bassett Street,53703
+23727,Non-Residential Burglary,2019-00245163,"6/23/2019, 10:37 PM",3528 E Washington Ave,53704
+23710,Intoxicated/Impaired Driver,2019-237209,"6/18/2019, 11:18 PM",N. Butler St.,53703
+23715,Disturbance,2019-238542,"6/19/2019, 5:50 PM",100 block State St.,53703
+23716,Arrested Person,2019-238056,"6/19/2019, 12:15 PM",Milwaukee Street,53704
+23702,Residential Burglary,2019-231746,"6/15/2019, 1:50 PM",2500 block Calypso Rd.,53704
+23708,Information,2019-235774,"6/18/2019, 5:21 AM",413 Dempsey Rd.,53714
+23709,Weapons Violation,2019-236638,"6/18/2019, 2:13 PM",E. Lakeside St.,53715
+23691,Weapons Violation,2019-225513,"6/11/2019, 5:10 PM",3900 Dempsey Rd.,53716
+23692,Drug Investigation,2019-226310,"6/12/2019, 8:30 AM",2402 W. Broadway,53713
+23693,Check Person,2019-226415,"6/12/2019, 10:31 AM",214 N. Carroll St.,53703
+23695,Theft,2019-226989,"6/12/2019, 4:38 PM",1289 N. Sherman Ave.,53704
+23697,Missing Adult,2019-231815,"6/15/2019, 2:45 PM",510 N Gammon Road,53717
+23698,Weapons Violation,2019-230855,"6/14/2019, 10:37 PM",Cottage Grove Rd.,53716
+23683,Robbery,2019-221571,"6/9/2019, 10:16 AM",4550 Verona Rd.,53711
+23686,Weapons Violation,2019-220899,"6/8/2019, 10:29 PM",437 N. Frances St.,53703
+23670,Sexual Assault,2019-205760,"5/30/2019, 7:45 PM",West Badger Road,53713
+23672,Theft,2019-208268,"6/1/2019, 10:16 AM",Sunfish Court,53713
+23673,Non-Residential Burglary,2019-207823,"6/1/2019, 3:27 AM",922 S. Park St.,53715
+23674,Theft,2019-208695,"6/1/2019, 3:35 PM",7475 Mineral Point Rd.,53717
+23676,Traffic Incident,2019-213110,"6/4/2019, 12:05 PM",S. Gammon Rd.,53717
+23678,Information,2019-210976,"6/3/2019, 7:05 AM",1710 McKenna Blvd.,53711
+23662,Robbery,2019-198530,"5/25/2019, 11:00 PM",S Park St,53715
+23666,Missing Juvenile,2019-195826,"5/24/2019, 11:33 AM",Star Grass Dr.,53719
+23668,Drug Investigation,2019-125381,"5/29/2019, 4:54 AM",555 W. Mifflin St.,53703
+23669,Battery,2019-203957,"5/29/2019, 7:00 PM",S. Brearly St.,53703
+23652,Disturbance,2019-188994,"5/20/2019, 6:30 AM",101 S. Gammon Rd.,53717
+23658,Disturbance,2019-193016,"5/22/2019, 4:47 PM",1625 Northport Dr.,53704
+23640,Missing Juvenile,2019-181376,"5/14/2019, 11:00 AM",Tree Lane,53717
+23641,Theft,2019-183203,"5/16/2019, 3:33 AM",Bell-Aire Dr.,53713
+23644,Intoxicated/Impaired Driver,2019-186544,"5/18/2019, 10:10 AM",3140 Maple Valley Drive,53719
+23645,Weapons Violation,2019-187461,"5/18/2019, 10:44 PM",Wickham Court,53711
+23647,Residential Burglary,2019-187113,"5/18/2019, 5:13 PM",Golden Maple Rd.,53718
+23648,Battery,2019-187169,"5/18/2019, 6:28 PM",602 University Ave.,53715
+23649,Exposure,2019-188215,"5/19/2019, 2:25 PM",Monterey Dr.,53704
+23633,Disturbance,2019-176399,"5/11/2019, 10:10 AM",East Washington Ave.,53703
+23635,Robbery,2019-178226,"5/12/2019, 7:42 PM",Oakbridge Court,53717
+23636,Weapons Violation,2019-176221,"5/11/2019, 7:05 AM",West Beltline Highway,53713
+23637,Robbery,2019-180190,"5/14/2019, 5:33 AM",2929 N. Sherman Ave.,53704
+23638,Battery,2019-179660,"5/13/2019, 5:44 PM",Post Rd.,53713
+23639,Robbery,2019-176760,"5/11/2019, 3:28 PM",Brompton Circle,53711
+23620,Traffic Incident,2019-165842,"5/3/2019, 7:48 PM",West Washington Ave.,53703
+23621,Weapons Violation,2019-166827,"5/4/2019, 2:29 PM",O'Brien Court,53714
+23623,Intoxicated/Impaired Driver,2019-167716,"5/5/2019, 7:13 AM",Junction Road,53717
+23626,Intoxicated/Impaired Driver,2019-172231,"5/8/2019, 11:13 AM",John Nolen Dr.,53703
+23628,Non-Residential Burglary,2019-172092,"5/4/2019, 9:30 PM",S.Stoughton Rd.,53714
+23613,Weapons Violation,2019-160621,"4/30/2019, 8:00 AM",101 S. Gammon Rd.,53717
+23615,Disturbance,2019-160393,"4/30/2019, 5:10 AM",Balsam Road,53711
+23619,Robbery,2019-164371,"5/3/2019, 1:05 AM",East Wilson St.,53703
+23603,Special Event,2019-00035362,"4/27/2019, 8:00 AM",W. Mifflin Street,53703
+23604,Weapons Violation,2019-157569,"4/27/2019, 10:00 PM",4822 E. Washington Ave.,53704
+23605,Intoxicated/Impaired Driver,2019-155700,"4/26/2019, 1:30 PM",Junction Road,53717
+23607,Traffic Incident,2019-157421,"4/27/2019, 7:10 PM",Warwick Way,53711
+23594,Traffic Incident,2019-144940,"4/19/2019, 10:32 AM",Park Street,53715
+23595,Battery,2019-145140,"4/19/2019, 12:50 PM",Vernon Ave.,53714
+23597,Battery,2019-152100,"4/24/2019, 7:18 AM",101 S. Gammon Rd.,53717
+23598,Sexual Assault,2019-75747,"4/24/2019, 5:00 AM",702 Pflaum Rd.,53716
+23599,Residential Burglary,2019-152173,"4/24/2019, 8:00 AM",N. Park St.,53715
+23580,Weapons Violation,2019-139798,"4/15/2019, 6:46 PM",211 South Carroll St.,53703
+23586,Traffic Incident,2019-143745,"4/18/2019, 1:11 PM",S. Park Street,53715
+23570,Sexual Assault,2019-133828,"4/10/2019, 12:00 PM",2222 East Washington Ave.,53704
+23571,Robbery,2019-135050,"4/12/2019, 8:40 AM",2929 N. Sherman Ave.,53704
+23573,Weapons Violation,2019-137341,"4/13/2019, 9:30 PM",211 South Carroll St.,53703
+23575,Traffic Incident,2019-136757,"4/13/2019, 1:12 PM",Waxwing Lane,53704
+23577,Residential Burglary,2019-136410,"4/13/2019, 12:30 AM",Saint James Court,53715
+23560,Theft,2019-122509,"4/3/2019, 8:58 AM",5702 Raymond Rd.,53711
+23561,Weapons Violation,2019-129190,"4/8/2019, 6:23 AM",2222 East Washington Ave.,53704
+23562,Non-Residential Burglary,2019-128820,"4/7/2019, 9:43 PM",4 Collins Court,53716
+23564,Weapons Violation,2019-130124,"4/8/2019, 4:58 PM",2402 S. Park St.,53713
+23567,Non-Residential Burglary,2019-134453,"4/11/2019, 8:03 PM",25 South Livingston St,53703
+23550,Theft,2019-122702,"4/3/2019, 12:53 PM",4301 Lien Road,53704
+23551,Theft,2019-76945,"4/3/2019, 2:35 PM",Milwaukee Street,53704
+23552,Miscellaneous Sex Offense,2019-123794,"4/4/2019, 9:09 AM",1 S. Park St.,53715
+23554,Information,2019-00128603,"4/7/2019, 4:32 PM",2701 Atwood Ave,53704
+23555,Suspicious Person,2019-128825,"4/7/2019, 9:45 PM",10 block N. Broom St.,53703
+23556,Weapons Violation,2019-126902,"4/6/2019, 11:29 AM",2849 N. Sherman Ave.,53704
+23557,Weapons Violation,2019-125929,"4/5/2019, 5:29 PM",4301 East Towne Blvd.,53704
+23558,Intoxicated/Impaired Driver,2019-128039,"4/7/2019, 6:50 AM",East Washington Ave.,53703
+23559,Traffic Incident,2019-125938,"4/5/2019, 5:33 PM",S. Midvale Blvd.,53705
+23541,Robbery,2019-00120068,"4/1/2019, 2:03 PM",2849 N Sherman Ave.,53704
+23542,Robbery,2019-00120272,"4/1/2019, 5:25 PM",2703 W Beltline Hwy,53713
+23543,Weapons Violation,2019-119436,"4/1/2019, 6:15 AM",West Terrace Drive,53718
+23544,Non-Residential Burglary,2019-120488,"4/1/2019, 11:56 PM",4905 Commercial Ave.,53704
+23545,Residential Burglary,2019-119392,"3/29/2019, 10:30 PM",10 block S. Orchard St.,53715
+23548,Traffic Incident,2019-123420,"4/4/2019, 4:37 AM",Hoboken Rd.,53713
+23530,Weapons Violation,2019-113174,"3/27/2019, 6:47 AM",Waunona Woods Court,53713
+23531,Battery,2019-113565,"3/27/2019, 12:25 PM",E. Johnson St.,53703
+23532,Suspicious Person,2019-114880,"3/28/2019, 12:45 PM",2025 Zeier Rd.,53704
+23533,Theft,2019-901143,"3/26/2019, 5:00 AM",3533 Benjamin Dr.,53718
+23537,Theft,2019-116454,"3/29/2019, 3:46 PM",201 S. Gammon Rd.,53717
+23539,Weapons Violation,2019-117440,"3/30/2019, 12:30 PM",201 W. Mifflin St.,53703
+23520,Weapons Violation,2019-109118,"3/23/2019, 9:02 PM",10 block Fairlane Ct.,53713
+23524,Disturbance,2019-110204,"3/24/2019, 10:06 PM",100 block State St.,53703
+23527,Suspicious Person,2019-108411,"3/23/2019, 10:25 AM",Lake Point Dr.,53713
+23528,Robbery,2019-111535,"3/25/2019, 10:27 PM",4765 Hayes Rd.,53704
+23511,Theft,2019-97865,"3/15/2019, 1:00 PM",214 Waubesa St.,53704
+23513,Theft,2019-103546,"3/20/2019, 2:25 PM",Fish Hatchery Rd.,53715
+23515,Robbery,2019-106666,"3/22/2019, 5:38 AM",N. Lincoln Ridge Dr.,53719
+23517,Weapons Violation,2019-107877,"3/22/2019, 10:03 PM",2121 East Springs Dr,53704
+23500,Animal Complaint - Disturbance,2019-92716,"3/12/2019, 3:16 AM",Oconto Court,53705
+23501,Robbery,2019-93781,"3/12/2019, 5:01 PM",714 W. Badger Rd,53713
+23502,Battery,2019-95198,"3/13/2019, 4:34 PM",Georgiana Circle,53716
+23503,Check Person,2019-97067,"3/15/2019, 2:01 AM",Lake Street,53715
+23504,Theft,2019-96283,"3/14/2019, 11:16 AM",4501 Verona Rd.,53711
+23505,Theft,2019-96410,"3/14/2019, 12:40 PM",702 N. Midvale Blvd.,53705
+23507,Non-Residential Burglary,2019-101003,"3/17/2019, 11:32 PM",2110 S. Stoughton Rd.,53716
+23490,Missing Juvenile,2019-87634,"3/8/2019, 5:33 AM",Tottenham Rd.,53711
+23491,Robbery,2019-89951,"3/9/2019, 4:01 PM",6710 Raymond Rd.,53719
+23493,Non-Residential Burglary,2019-89036,"3/9/2019, 1:45 AM",4515 Verona Rd.,53711
+23496,Robbery,2019-00092055,"3/11/2019, 12:00 PM",8230 Watts Rd,53719
+23497,Disturbance,2019-92135,"3/11/2019, 12:58 PM",2845 North Sherman Ave.,53704
+23498,Drug Investigation,2019-73028,"3/11/2019, 6:30 AM",Badger Road,53713
+23499,Robbery,2019-92694,"3/12/2019, 2:10 AM",4624 Monona Dr.,53716
+23482,Fraud,2019-71178,"2/23/2019, 2:00 PM",N. Pinckney St.,53703
+23483,Miscellaneous Sex Offense,2019-83979,"3/5/2019, 10:54 AM",626 S. Whitney Way,53711
+23484,Residential Burglary,2019-84435,"3/5/2019, 4:00 PM",3200 block Milwaukee St.,53714
+23485,Intoxicated/Impaired Driver,2019-085878,"3/6/2019, 10:27 PM",4002 E. Washington Ave,53704
+23489,Suspicious Person,2019-77858,"2/28/2019, 12:00 PM",Swallowtail Dr.,53717
+23471,Drug Investigation,2019-710021,"2/23/2019, 11:46 AM",S. Gammon Rd.,53717
+23474,Non-Residential Burglary,2019-75472,"2/26/2019, 10:17 PM",1903 S. Park St.,53713
+23475,Robbery,2019-76591,"2/27/2019, 4:15 PM",7011 Watts Rd.,53719
+23476,Fraud,2019-77055,"2/27/2019, 6:59 AM",Paus Street,53714
+23477,Non-Residential Burglary,2019-78169,"2/28/2019, 11:19 PM",4325 Mohawk Dr.,53711
